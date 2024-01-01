@@ -5,7 +5,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I am currently learning the basic of web development.
-- 🌱 I am engaged in problem solving. 
-- 🧑‍💻 I focus on data structures and algorithm.
-- 🧑‍💻 I have my strong grip on Java/C++.
+<ul>
+<li><h3> 🔭 I am currently learning the basic of web development.</h3></li>
+<li><h3> 🌱 I am engaged in problem solving.</h3><li>
+<li><h3>🧑‍💻 I focus on data structures and algorithm.</h3></li>
+<li><h3>🧑‍💻 I have my strong grip on Java/C++.</h3></li>
+</ul>
